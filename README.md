@@ -100,4 +100,4 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |[**Gameboy**](https://codeberg.org/wast/grub2-gameboy-theme)|[**EvoDevo (Configurable)**](https://github.com/ftonneau/grub-evodevo)|[**Half-Life (Set)**](https://github.com/KingKusuo/half-life-grub-theme)|
 |    |    |    |
 |<img src="/Images/Satisfactory.gif" width="247">|<img src="/Images/preview.png" width="247">|<img src="Images/Placeholder.png" width="247">|
-|[**Satisfactory (Set)**](https://github.com/Spokloo/satisfactory-grub-themes)|[**Half-Life (Set)**](https://github.com/larper069/BRUTAL-GRUB)-|-|
+|[**Satisfactory (Set)**](https://github.com/Spokloo/satisfactory-grub-themes)|[**BRUTAL-GRUB**](https://github.com/larper069/BRUTAL-GRUB)-|-|
